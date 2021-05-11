@@ -1,13 +1,13 @@
 <h2>SignIn (using Google Authentication) </h2>
 
 <img 
-    src="" alt="SignIn Page" height="200" width="400"
+    src="https://github.com/jaybamania/whatsapp-clone/blob/whatsappclone/public/signInUI.PNG" alt="SignIn Page" 
 />
 
 <h2>MainUI Page </h2>
 
 <img 
-    src="" alt="MainUI Page"
+    src="https://github.com/jaybamania/whatsapp-clone/blob/whatsappclone/public/mainUI.PNG" alt="MainUI Page"
 />
 
 # Getting Started with Create React App
